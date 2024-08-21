@@ -31,7 +31,7 @@ With the learning goals in mind, the course is taught with PhD students in mind.
 - Students will know basic **linear algebra** and **numerical analysis** for solving differential equations, in particular they will be able to solve differential equations numerically using classical methods (not necessarily "from scratch", but at least understand how to use appropriate libraries), and understand basic **physical modeling**
 - Finally, students will be aware of recent SciML approaches, know when SciML can be useful and what are shortcomings, and be able to implement an existing approach
   - To this end, students will produce a final report involving a professional writeup and coding
-- A theme for the course is "scientific debugging", which includes all levels of usual code debugging, but also higher-level concepts applicable to the entire scientific workflow. How do we know a piece of code is correct? How do we know a discretization is accurate?
+- A theme for the course is "scientific debugging", which includes all levels of usual code debugging, but also higher-level concepts applicable to the entire scientific workflow. In research, there is no answer in the back of the book, so how do we know when we get it right? How do we know a piece of code is correct? How do we know a discretization is accurate? We will use tools like validation, refinement studies, etc.
 
 ### Programming
 We currently plan to focus on Python and the PyTorch library, however we may require graduate students to do some assignments in two separate libraries or languages in order to see the similarities and differences.
