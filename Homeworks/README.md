@@ -3,7 +3,7 @@ Fall 2024
 
 The homework assignments are here, but homework **solutions** are on Canvas
 
-- [HW 1](APPM4720SciML_Fall2024_HW01..pdf) HW 1 on computational basics. Due Fri Feb 3 2023.
+- [HW 1](APPM4720SciML_Fall2024_HW01..pdf) HW 1 on a review of numerical analsyis and on getting started with CIFAR10. Due Fri Aug 30 2024.
 
 
 <!--
