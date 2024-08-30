@@ -7,7 +7,9 @@ We will access a few different computers.
 
 1. To use the [Jetstream2](https://jetstream-cloud.org/index.html) computers, follow [Step 1: Create your NSF "ACCESS" account](https://jetstream-cloud.org/get-started/index.html) of their documentation and create an account.
 
-   You do not need to request an allocation (I already created an allocation, so just send me your user name and I will add you to our allocation)
+   You do not need to request an allocation (I already created an allocation, so just send me your user name and I will add you to our allocation). I have signed the class up for the [Jetstream2 "GPU"](https://docs.jetstream-cloud.org/general/vmsizes/#jetstream2-gpu) allocation, and you'll be able to choose from among the following "flavors": `g3.small`, `g3.medium`, `g3.large` and `g3.xl`. The smallest one bills us at 8 units per hour (we have 200,000 units as a class to spend), and each larger size doubles the billing rate, so use `g3.small` when possible.
+
+   **Important** For "access provider", select CU Boulder, and then you can re-use your CU credentials (i.e., SSO)
 
 2. Create a [CU Research Computing (CURC) account](https://www.colorado.edu/rc/). This will be linked to your normal CU identikey after you create it. You'll need to use a 2 factor athentication method (like a smart phone app)
 
