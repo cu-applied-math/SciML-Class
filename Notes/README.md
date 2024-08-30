@@ -5,9 +5,9 @@
   - [HW 1 and 2](../Homeworks/) have been posted
   - Please read the [syllabus](../syllabus.md) and [course policies](../policies.md)
 - Wednesday: continue [Intro to ML](<03 Intro to ML.pdf>)
-- Friday: in-class lab. Please bring your laptop!
+- Friday: in-class lab, [lab01](../Labs/lab01.md). Please bring your laptop!
 
 ### Week 2
 - Monday: no school (labor day)
 - Wednesday: TBD
-- Friday: in-class lab. Please bring your laptop!
+- Friday: in-class lab, [lab02](../Labs/lab02.md). Please bring your laptop!
