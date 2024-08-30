@@ -29,6 +29,8 @@ If you've finished part 2 (or done at least enough to get credit and are tired o
 
 Using `pytorch`, solve the linear least squares optimization problem $$\min_x \|Ax-b\|_2^2$$ using gradient descent. You can use [builtin optimizers](https://pytorch.org/docs/stable/optim.html) to PyTorch, and use can use the builtin automatic differentiation. (Of course in this case, the gradient is easy to implement by hand, but for practice you could try it both ways)
 
+You can test the accuracy of your solution by solving least squares the linear algebra way (which you are doing for homework 1).
+
 *Hint*: if you don't want to play guess-and-check with stepsizes (aka learning rates), use a stepsize $\eta \in (0, 2/L)$ where $L$ is the square of [`numpy.linalg.norm`](https://numpy.org/doc/stable/reference/generated/numpy.linalg.norm.html) (using `ord=2` so that you compute the ["spectral norm"](https://en.wikipedia.org/wiki/Matrix_norm#Spectral_norm_(p_=_2)))
 
 **Bonus**: do this exercise in Julia. I'd suggest using [Zygote](https://fluxml.ai/Zygote.jl/stable/) (part of the [Flux](https://fluxml.ai/) machine learning toolbox for Julia, and also used by Lux, the main alternative to Flux) for automatic differentiation, which is one of the many [AD packages in Julia](https://juliadiff.org/).
