@@ -10,6 +10,7 @@ We will access a few different computers.
    You do not need to request an allocation (I already created an allocation, so just send me your user name and I will add you to our allocation). I have signed the class up for the [Jetstream2 "GPU"](https://docs.jetstream-cloud.org/general/vmsizes/#jetstream2-gpu) allocation, and you'll be able to choose from among the following "flavors": `g3.small`, `g3.medium`, `g3.large` and `g3.xl`. The smallest one bills us at 8 units per hour (we have 200,000 units as a class to spend), and each larger size doubles the billing rate, so use `g3.small` when possible.
 
    **Important** For "access provider", select CU Boulder, and then you can re-use your CU credentials (i.e., SSO)
+   Add your AccessID to the [Google Doc](https://docs.google.com/document/d/16vOoHoySaNnaon3YlVK-ESXqbLDXVJkTglZWUkytFro/edit?usp=sharing)
 
 2. Create a [CU Research Computing (CURC) account](https://www.colorado.edu/rc/). This will be linked to your normal CU identikey after you create it. You'll need to use a 2 factor athentication method (like a smart phone app)
 
