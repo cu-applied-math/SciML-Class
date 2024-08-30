@@ -1,6 +1,7 @@
 using LinearAlgebra # stdlib
 using Optimization, Zygote # 3rd party 
 using OptimizationOptimJL: GradientDescent, ConjugateGradient
+using LineSearches
 ## define test problem 
 N = 100
 xstar = rand(N)
@@ -28,7 +29,7 @@ prob = OptimizationProblem(
 
 sol = solve(prob, 
     GradientDescent(
-        alphaguess=InitialStatic(alpha=2/opnorm(A))
+        alphaguess=InitialStatic(alpha=2/opnorm(A)^2)
     );
     maxiters=10000, 
     # abstol=1e-8,
