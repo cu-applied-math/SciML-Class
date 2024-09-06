@@ -17,7 +17,7 @@ And to find the gradient,
 
 Do this for the following **two test problems**
 1. Let $G$ be a 1000 x 500 matrix of iid standard normal entries, and take $A=G$
-2. With the same $G$ as above, let $A=G + (1+10^{-7})\tilde{G}$ where $\tilde{G}$ is $G$ but with columns shifted circularly (same as in HW 1).
+2. With the same $G$ as above, let $A=G + (1-10^{-7})\tilde{G}$ where $\tilde{G}$ is $G$ but with columns shifted circularly (same as in HW 1).
 
 
 For both cases, set $b$ to be iid standard normal, and you can find the true answer using linear algebra (as in HW 1).  We have setup a [helper script](lab02.ipynb) to do some of the setup for you.
@@ -34,7 +34,7 @@ Using PyTorch, you can call
 and see if these are faster or slower.
 
 Or via `scipy.optimize` you can call `scipy.optimize.minimize` with:
-- `method='Nelder-Meand'` (this will *not* use derivatives/gradients)
+- `method='Nelder-Mead'` (this will *not* use derivatives/gradients)
 - `method='BFGS'` (this is a *quasi-Newton* method that approximates the Hessian)
 
 ## Part 3 (optional, if you have time)
