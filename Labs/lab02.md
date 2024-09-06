@@ -19,9 +19,10 @@ Do this for the following **two test problems**
 1. Let $G$ be a 1000 x 500 matrix of iid standard normal entries, and take $A=G$
 2. With the same $G$ as above, let $A=G + (1+10^{-7})\tilde{G}$ where $\tilde{G}$ is $G$ but with columns shifted circularly (same as in HW 1).
 
-For both cases, you can find the true answer using linear algebra (as in HW 1).  We have setup a [helper script](lab02.ipynb) to do some of the setup for you.
 
-The **deliverable** for this lab is turning in a single plot (a PDF) showing the value of $\|Ax-b\|$ minus the optimal value, for both test problems (overlayed on the same plot), as a function of gradient descent iteration.
+For both cases, set $b$ to be iid standard normal, and you can find the true answer using linear algebra (as in HW 1).  We have setup a [helper script](lab02.ipynb) to do some of the setup for you.
+
+The **deliverable** for this lab is turning in a single plot (a PDF) showing the value of $\|Ax-b\|^2$ minus the optimal value, for both test problems (overlayed on the same plot), as a function of gradient descent iteration.
 
 **Alternative**: do this exercise in Julia. I'd suggest using [Zygote](https://fluxml.ai/Zygote.jl/stable/) (part of the [Flux](https://fluxml.ai/) machine learning toolbox for Julia, and also used by Lux, the main alternative to Flux) for automatic differentiation, which is one of the many [AD packages in Julia](https://juliadiff.org/).
 
