@@ -39,3 +39,5 @@ Or via `scipy.optimize` you can call `scipy.optimize.minimize` with:
 
 ## Part 3 (optional, if you have time)
 In part 1, if you didn't already, define your model to be a simple 1 layer (no hidden layer) **neural net** (with no nonlinearities), and train it with PyTorch.  This is just an equivalent way to setup the problem.
+
+And/or, try running on the GPU.  Create the problem on the CPU and then transfer it to the GPU (how long does that take?), and see if this is faster.
