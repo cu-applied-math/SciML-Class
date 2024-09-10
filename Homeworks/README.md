@@ -5,6 +5,7 @@ The homework assignments are here, but homework **solutions** are on Canvas
 
 - [HW 1](APPM4720SciML_Fall2024_HW01.pdf) A review of numerical analysis. Due Fri Aug 30 2024.
 - [HW 2](APPM4720SciML_Fall2024_HW02.pdf) Getting started with CIFAR10. Due Fri Sep 6 2024.
+- [HW 3](APPM4720SciML_Fall2024_HW03.pdf) Nicer workflow: PyTorch Lightning or other ways to log, profile, debug. Due Fri Sep 13 2024.
 
 
 <!--
