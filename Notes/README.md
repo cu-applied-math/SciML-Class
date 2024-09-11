@@ -18,4 +18,4 @@
 - [HPC: computer memory](<07 HPC_ComputerMemory.pdf>)
 - [Tricks etc for neural nets](<08 Tricks, and going farther.pdf>)
 - [Misc: catastrophic cancellation](<Misc_Catastrophic Cancellation.pdf>)
-- [Misc: details on MLP and convolutions](<Misc_MLP and Conv Net.pdf>}
+- [Misc: details on MLP and convolutions](<Misc_MLP and Conv Net.pdf>)
