@@ -10,12 +10,14 @@
 ### Week 2
 - Monday: no school (labor day)
 - Wednesday: TBD
+  - [Preventing Overfitting](<05 Preventing Overfitting.pdf>)
 - Friday: in-class lab, [lab02](../Labs/lab02.md). Please bring your laptop!
 
 ### Week 3
-- [Preventing Overfitting](<05 Preventing Overfitting.pdf>)
 - [Artificial Neural Nets](<06 Artificial Neural Networks.pdf>)
-- [HPC: computer memory](<07 HPC_ComputerMemory.pdf>)
-- [Tricks etc for neural nets](<08 Tricks, and going farther.pdf>)
+- [Tricks etc for neural nets](<07 Tricks, and going farther.pdf>)
 - [Misc: catastrophic cancellation](<Misc_Catastrophic Cancellation.pdf>)
 - [Misc: details on MLP and convolutions](<Misc_MLP and Conv Net.pdf>)
+
+### Week 4
+- [HPC: computer memory](<08 HPC_ComputerMemory.pdf>)
