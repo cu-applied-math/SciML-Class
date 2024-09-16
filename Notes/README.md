@@ -29,3 +29,4 @@
 - Monday
   - [Tricks etc for neural nets](<07 Tricks, and going farther.pdf>)
   - [HPC: computer memory](<08 HPC_ComputerMemory.pdf>)
+  - [Automatic Differentiation](<09 Automatic Differentiation.pdf>)
