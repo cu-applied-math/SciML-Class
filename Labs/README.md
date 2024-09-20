@@ -3,3 +3,4 @@
 - Friday, Aug 30. Do [lab 1](lab01.md) on creating accounts for remote computers and running a benchmark python script
 - Friday, Sep 6. Do [lab 2](lab02.md) on running gradient descent on a least-squares problem.
 - Friday, Sep 13. Do [lab 3](lab03.md) on learning an image via a neural net ("implicit neural represesntation")
+- Friday, Sep 20. Do [lab 4](lab04.md) on exploring automatic differentiation for non-differentiable functions, and how AD depends on implementation
