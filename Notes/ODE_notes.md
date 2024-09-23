@@ -2,7 +2,6 @@
 Taken from  [APPM/MATH 4650 Intermediate Numerical Analysis](https://github.com/stephenbeckr/numerical-analysis-class/blob/master/syllabus.md#detailed-list-of-topics), taught Fall 2020 by Stephen Becker. In Canvas I will post a link to the youtube playlist for these videos.  *It is not required to watch these videos for the SciML class*, but I'm posting them for students who didn't take the prerequisite numerical analysis class.
 
 - "Introduction to ODEs" (44 min; [Ch5_IntroToODEs.pdf](https://github.com/stephenbeckr/numerical-analysis-class/blob/master/Notes/Ch5_IntroToODEs.pdf)), putting them in context (we did *not* discuss DAE; see [Ch5_ODE_resources.md](https://github.com/stephenbeckr/numerical-analysis-class/blob/master/Notes/Ch5_ODE_resources.md) for a brief discussion we did later), ch 5.1 (ODE theory) and misc.
-  - Demo: [Ch4_ImproperIntegrals.ipynb](https://github.com/stephenbeckr/numerical-analysis-class/blob/master/Demos/Ch4_ImproperIntegrals.ipynb)
   - We are *not* covering PDEs, implicit ODEs, nor [DAEs](https://en.wikipedia.org/wiki/Differential-algebraic_system_of_equations), but we are covering *systems of ODEs*
 - "Euler's Method" (2 videos, intro and error analysis, 10 and 35 min; [Ch5_EulersMethod.pdf](https://github.com/stephenbeckr/numerical-analysis-class/blob/master/Notes/Ch5_EulersMethod.pdf)), ch 5.2
   - Demo: [Ch5_ODEs.ipynb](https://github.com/stephenbeckr/numerical-analysis-class/blob/master/Demos/Ch5_ODEs.ipynb)
