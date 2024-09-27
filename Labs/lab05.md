@@ -10,7 +10,7 @@ Two-sided [Hoeffding inequality](https://en.wikipedia.org/wiki/Hoeffding%27s_ine
 ```math
 \mathbb{P}\left[ \left| \frac{1}{n}S_n - \mu  \right| \ge t\right] \le 2 \exp\left( -2nt^2\right)
 ```
-where $S_n=X_1+X_2+\ldots+X_n$ is the sum of $n$ **independent** Bernoulli random variables.  Recall $X$ is a Bernoulli random variable (with some parameter $p$) if it takes on two possible values, $\{0,1\}$, and is equal to $1$ with probability $p$ and equal to $0$ with probability $1-p$.
+where $S_n=X_1+X_2+\ldots+X_n$ is the sum of $n$ **independent** Bernoulli random variables. 
 
 
 Let $\mu$ be the true risk of a binary classifier $f$ (using the 0-1 loss $\ell$), and suppose we have $n$ independent samples (that are also independent of $f$), and let $\frac{1}{n}S_n$ be the empirical risk (still using the 0-1 loss) on these samples.  (Think of these as validation or testing samples)
