@@ -25,7 +25,7 @@ f'(x) = \begin{cases} \cos(x) & x \neq \frac12 \\ 3.8 & x = \frac12\end{cases}
 
 For credit for the lab, turn in a PDF (upload to Canvas) showing your Python code and a plot of the derivative.  
 
-*When you plot your derivative, if you use `torch.linspace` or similar to make the $x$ values, be sure to include the point $x=\frac12$*
+*Note* When you plot your derivative, if you use `torch.linspace` or similar to make the $x$ values, be sure to include the point $x=\frac12$
 
 ### Notes
 This lab is inspired by the paper [A mathematical model for automatic differentiation
