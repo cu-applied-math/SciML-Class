@@ -41,11 +41,15 @@
 - Wednesday
   - Start ODEs. See [ODE_notes](ODE_notes.md) for a link to a chapters worth of material from an undergraduate numerical analysis class
   - These notes are mainly for anyone who didn't take the prereq class; I have a link to youtube videos on Canvas for these
-- Friday: in-class lab
+- Friday: in-class lab, [lab05](../Labs/lab05.md) about why we have both validation and testing data
+
+## Week 6 (Mon Sep 30 - Fri Oct 4 2024)
+- Monday
+  - Finish ODE notes
+  - Start optimization: [Unconstrained optimization](<10 Unconstrained Optimization.pdf>) then [SGD](<11 SGD.pdf>) 
+
 
 # Future weeks (tentative)
-## Week 6 (Mon Sep 30 - Fri Oct 4 2024)
-- Optimization
 ## Week 7 (Mon Oct 7 - Fri Oct 11 2024)
 - PINNs, SIRENs, INR, NeRF
 ## Week 8 (Mon Oct 14 - Fri Oct 18 2024)
