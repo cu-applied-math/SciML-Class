@@ -47,6 +47,8 @@
 - Monday
   - Finish ODE notes
   - Start optimization: [Unconstrained optimization](<10 Unconstrained Optimization.pdf>) then [SGD](<11 SGD.pdf>) 
+- Wednesday
+  - Finish previous optimization notes, and do [Constrained optimization](<12 Constrained Optimization.pdf>)
 
 
 # Future weeks (tentative)
