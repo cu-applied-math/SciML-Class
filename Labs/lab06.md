@@ -19,7 +19,7 @@ See [lab06b_optimization.ipynb](lab06b_optimization.ipynb) starter notebook.
 Let
 ```math
 f:\mathbb{R}^2 \to \mathbb{R},\quad
-f(\vec{x}) = \left( x_1^2 - x_2^2 \right)\cdot e^{-(x_1^2 + x_2^2 )/0.2 } \right
+f(\vec{x}) = \left( x_1^2 - x_2^2 \right)\cdot e^{-(x_1^2 + x_2^2 )/0.2 }
 ```
 
 Write your own very simple Newton's method to solve this, starting at the point $\vec{x} = (0,0.1)$.  What happens?
