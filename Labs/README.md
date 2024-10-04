@@ -5,6 +5,7 @@
 - Friday, Sep 13. Do [lab 3](lab03.md) on learning an image via a neural net ("implicit neural represesntation")
 - Friday, Sep 20. Do [lab 4](lab04.md) on exploring automatic differentiation for non-differentiable functions, and how AD depends on implementation
 - Friday, Sep 27. Do [lab 5](lab05.md) on why we have both validation and testing sets
+- Friday, Oct 4. Do [lab 6](lab06.md) on (a) complexity analysis, and (b) optimization methods
 
 ### Solutions
 Solutions are on the [`lab_solutions`](../../../tree/lab_solutions/Labs) branch of the repo
