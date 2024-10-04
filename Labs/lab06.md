@@ -26,7 +26,7 @@ Write your own very simple Newton's method to solve this, starting at the point 
 
 (Note: the starter notebook defines the function and its gradient and Hessian for you)
 
-#### Explore what's in `scipy.optimzie`
+#### Explore what's in `scipy.optimize`
 For the classic 2D [Rosenbrock function](https://en.wikipedia.org/wiki/Rosenbrock_function), solve it with the different solvers available in scipy. Which ones work best?
 
 #### More Rosenbrock
