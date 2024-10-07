@@ -59,6 +59,7 @@
   - Finish up last bit of [Constrained optimization](<12 Constrained Optimization.pdf>)
   - Discuss **initialization** of neural networks
     - Follow [PyTorch Lightning tutorial](https://lightning.ai/docs/pytorch/stable/notebooks/course_UvA-DL/03-initialization-and-optimization.html)
+      - and their [video](https://www.youtube.com/watch?v=X5m7bC4xCLY)
     - Other references: [blog post](https://pouannes.github.io/blog/initialization) and [deeplearning.ai chapter](https://www.deeplearning.ai/ai-notes/initialization/)
   - Discuss the "SIREN" paper
     - [their website](https://www.vincentsitzmann.com/siren/) and [paper](https://arxiv.org/abs/2006.09661)
