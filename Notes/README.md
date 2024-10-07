@@ -49,11 +49,33 @@
   - Start optimization: [Unconstrained optimization](<10 Unconstrained Optimization.pdf>) then [SGD](<11 SGD.pdf>) 
 - Wednesday
   - Finish previous optimization notes, and do [Constrained optimization](<12 Constrained Optimization.pdf>)
+- Friday: in-class lab, [lab06](../Labs/lab06.md)
+  - Nic (TA) gave a short talk about measuring computational complexity, in response to the backprop HW
+  - The lab had sections on (a) complexity, (b) choosing the right scipy.optimize method, and (c) doing some scipy.optimize coding yourself.
+  - We didn't make it very far...
 
+## Week 7 (Mon Oct 7 - Fri Oct 11 2024)
+- Monday
+  - Finish up last bit of [Constrained optimization](<12 Constrained Optimization.pdf>)
+  - Discuss **initialization** of neural networks
+    - Follow [PyTorch Lightning tutorial](https://lightning.ai/docs/pytorch/stable/notebooks/course_UvA-DL/03-initialization-and-optimization.html)
+    - Other references: [blog post](https://pouannes.github.io/blog/initialization) and [deeplearning.ai chapter](https://www.deeplearning.ai/ai-notes/initialization/)
+  - Discuss the "SIREN" paper
+    - [their website](https://www.vincentsitzmann.com/siren/) and [paper](https://arxiv.org/abs/2006.09661)
+    - 3 main ideas:
+      - INR
+      - Periodic (sinusoid) activation
+      - Initialization
+  - Not discussing NeRF (not science-related enough, though ideas like INR build somewhat on NeRF, though NeRF uses positional encoding)
+- Wednesday
+  - Introduce [PINN paper](https://doi.org/10.1016/j.jcp.2018.10.045) (Raissi et al., JCP, 2019)
+    - Existing similar ideas, "INR" idea, and 
+    - Vanilla version: what exactly they are proposing
+    - RK4 version
+    - 5 years later: hindsight, criticism and influence
 
 # Future weeks (tentative)
-## Week 7 (Mon Oct 7 - Fri Oct 11 2024)
-- PINNs, SIRENs, INR, NeRF
+
 ## Week 8 (Mon Oct 14 - Fri Oct 18 2024)
 - Operator learning
 ## Week 9 (Mon Oct 12 - Fri Oct 25 2024)
