@@ -70,9 +70,11 @@
   - Not discussing NeRF (not science-related enough, though ideas like INR build somewhat on NeRF, though NeRF uses positional encoding)
 - Wednesday
   - Introduce [PINN paper](https://doi.org/10.1016/j.jcp.2018.10.045) (Raissi et al., JCP, 2019)
-    - Existing similar ideas, "INR" idea, and 
-    - Vanilla version: what exactly they are proposing
-    - RK4 version
+    - Existing similar ideas, "INR" idea, and
+    - Forward solving
+      - Vanilla version: what exactly they are proposing
+      - RK4 version
+    - Inverse solving
     - 5 years later: hindsight, criticism and influence
 
 # Future weeks (tentative)
