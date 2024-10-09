@@ -9,6 +9,7 @@ The homework assignments are here, but homework **solutions** are on Canvas
 - [HW 4](APPM4720SciML_Fall2024_HW04.pdf) Automatic Differentiation by hand. Due Fri Sep 20 2024. [Update: due date extended to Mon Sep 23 2024]
 - [HW 5](APPM4720SciML_Fall2024_HW05.pdf) ODE solvers and conservation of energy. Due Mon Sep 30 2024.
 - [HW 6](APPM4720SciML_Fall2024_HW06.pdf) Constrained optimization. Due Mon Oct 7 2024.
+- [HW 7](APPM4720SciML_Fall2024_HW07.pdf) Baby PINNs. Due Mon Oct 14 2024.
 
 
 
