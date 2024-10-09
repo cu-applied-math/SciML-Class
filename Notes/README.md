@@ -61,6 +61,7 @@
     - Follow [PyTorch Lightning tutorial](https://lightning.ai/docs/pytorch/stable/notebooks/course_UvA-DL/03-initialization-and-optimization.html)
       - and their [video](https://www.youtube.com/watch?v=X5m7bC4xCLY)
     - Other references: [blog post](https://pouannes.github.io/blog/initialization) and [deeplearning.ai chapter](https://www.deeplearning.ai/ai-notes/initialization/)
+    - Interesting work by Jared Tanner's group on initialization: [Information-Bottleneck under Mean Field Initialization](https://people.maths.ox.ac.uk/tanner/papers/AbTa_InfBott_mean_field_ICML.pdf) (2020), [Activation Function design for deep networks: linearity and effective initialisation](https://people.maths.ox.ac.uk/tanner/papers/MAT_activation_design.pdf) (2021), [Mutual Information of Neural Network Initialisations: Mean Field Approximations](https://people.maths.ox.ac.uk/tanner/papers/TaUg_mutual_inf.pdf) (2021)
   - Discuss the "SIREN" paper
     - [their website](https://www.vincentsitzmann.com/siren/) and [paper](https://arxiv.org/abs/2006.09661)
     - 3 main ideas:
