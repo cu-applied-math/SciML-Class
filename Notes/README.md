@@ -69,13 +69,22 @@
       - Initialization
   - Not discussing NeRF (not science-related enough, though ideas like INR build somewhat on NeRF, though NeRF uses positional encoding)
 - Wednesday
-  - Introduce [PINN paper](https://doi.org/10.1016/j.jcp.2018.10.045) (Raissi et al., JCP, 2019)
+  - Introduce [PINN paper](https://doi.org/10.1016/j.jcp.2018.10.045) by M Raissi, P. Perdikaris, G Karniadakis (J Comp Phys, 2019)
     - Existing similar ideas, "INR" idea, and
     - Forward solving
       - Vanilla version: what exactly they are proposing
       - RK4 version
     - Inverse solving
     - 5 years later: hindsight, criticism and influence
+    - Other resources
+      - Perspective on PINNs a few years later;
+        - ["Scientific Machine Learning Through Physics–Informed Neural Networks: Where we are and What’s Next"](https://link.springer.com/article/10.1007/s10915-022-01939-z) by S Cuomo, V Schiano Di Cola, F Giampaolo, G Rozza, M Raissi & F Piccialli (J Sci Comp, 2022)
+        - ["Physics-informed machine learning"](https://www.nature.com/articles/s42254-021-00314-5) by G Karniadakis, I Kevrekidis, L Lu, P Perdikaris, S Wang & L Yang (Nature Review Physics, 2021)
+    - Background on PDEs
+      - [Burgers Equation](https://people.maths.ox.ac.uk/trefethen/pdectb/burgers2.pdf) from Nick Trefethen and Kristine Embree's unfinished ["PDE Coffee Table book"](https://people.maths.ox.ac.uk/trefethen/pdectb.html)
+      - [KdV Equation](https://people.maths.ox.ac.uk/trefethen/pdectb/kdv2.pdf),
+      - [Time-dependent Schrodinger equation](https://people.maths.ox.ac.uk/trefethen/pdectb/schr2.pdf), and then
+      - [Allen-Cahn](https://people.maths.ox.ac.uk/trefethen/pdectb/allen2.pdf) equation, all from the same coffee table book
 
 # Future weeks (tentative)
 
