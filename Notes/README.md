@@ -71,6 +71,7 @@
   - Not discussing NeRF (not science-related enough, though ideas like INR build somewhat on NeRF, though NeRF uses positional encoding)
 - Wednesday
   - Introduce [PINN paper](https://doi.org/10.1016/j.jcp.2018.10.045) by M Raissi, P. Perdikaris, G Karniadakis (J Comp Phys, 2019)
+    - My [handwritten notes on PINNs (7 pg)](<13 PINNs.pdf>)
     - Existing similar ideas, "INR" idea, and
     - Forward solving
       - Vanilla version: what exactly they are proposing
