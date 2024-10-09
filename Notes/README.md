@@ -80,6 +80,12 @@
       - Perspective on PINNs a few years later;
         - ["Scientific Machine Learning Through Physics–Informed Neural Networks: Where we are and What’s Next"](https://link.springer.com/article/10.1007/s10915-022-01939-z) by S Cuomo, V Schiano Di Cola, F Giampaolo, G Rozza, M Raissi & F Piccialli (J Sci Comp, 2022)
         - ["Physics-informed machine learning"](https://www.nature.com/articles/s42254-021-00314-5) by G Karniadakis, I Kevrekidis, L Lu, P Perdikaris, S Wang & L Yang (Nature Review Physics, 2021)
+      - Limitations (note: the original PINN paper did *not* advocate replacing conventional solvers with neural nets)
+        - Solving PDEs in a least-squares way has been tried before, e.g., the [First-order system least squares (FOSLS) for coupled
+fluid-elastic problems](https://amath.colorado.edu/pub/fosls/coupled1.pdf) approach (Heys, Manteuffel, McCormick, Ruge; JCP 2003) and the least-squares finite element method (LSFEM) of [An alternative least-squares formulation of the Navier–Stokes equations with improved mass conservation](https://www.sciencedirect.com/science/article/abs/pii/S0021999107002185?via%3Dihub) (Heys, Lee, Manteuffel, McCormick; JCP 2007)
+        - [Limitations of physics informed machine learning for nonlinear two-phase transport in porous media](https://www.dl.begellhouse.com/journals/558048804a15188a,583c4e56625ba94e,415f83b5707fde65.html) (Fuks and Tchelepi; J of ML for Modeling and Computation, 2020)
+        - [Can Physics-Informed Neural Networks beat the Finite Element Method?](https://arxiv.org/abs/2302.04107) (Grossmann, Komorowska, Latz, Schönlieb; 2023)
+        - [Weak baselines and reporting biases lead to overoptimism in machine learning for fluid-related partial differential equations](https://www.arxiv.org/abs/2407.07218) (McGreivy, Hakim; 2024)
     - Background on PDEs
       - [Burgers Equation](https://people.maths.ox.ac.uk/trefethen/pdectb/burgers2.pdf) from Nick Trefethen and Kristine Embree's unfinished ["PDE Coffee Table book"](https://people.maths.ox.ac.uk/trefethen/pdectb.html)
       - [KdV Equation](https://people.maths.ox.ac.uk/trefethen/pdectb/kdv2.pdf),
