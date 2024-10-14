@@ -91,13 +91,19 @@ fluid-elastic problems](https://amath.colorado.edu/pub/fosls/coupled1.pdf) appro
     - Background on PDEs
       - [Burgers Equation](https://people.maths.ox.ac.uk/trefethen/pdectb/burgers2.pdf) from Nick Trefethen and Kristine Embree's unfinished ["PDE Coffee Table book"](https://people.maths.ox.ac.uk/trefethen/pdectb.html)
       - [KdV Equation](https://people.maths.ox.ac.uk/trefethen/pdectb/kdv2.pdf),
-      - [Time-dependent Schrodinger equation](https://people.maths.ox.ac.uk/trefethen/pdectb/schr2.pdf), and then
+      - [Time-dependent Schrodinger equation](https://people.maths.ox.ac.uk/trefethen/pdectb/schr2.pdf), and then
       - [Allen-Cahn](https://people.maths.ox.ac.uk/trefethen/pdectb/allen2.pdf) equation, all from the same coffee table book
+
+## Week 8 (Mon Oct 14 - Fri Oct 18 2024)
+- Monday
+  - Finish up PINNs
+  - [Case-study of PINNS for gravity modeling](<Misc PINN Case study gravity modeling.pdf>) based on the paper [Physics-informed neural networks for gravity field modeling
+of small bodies](https://hanspeterschaub.info/PapersPrivate/Martin2022d.pdf) by John Martin and Hanspeter Schaub (CU Aerospace dept), 2022
+- Wednesday
+  - Start on Operator learning
 
 # Future weeks (tentative)
 
-## Week 8 (Mon Oct 14 - Fri Oct 18 2024)
-- Operator learning
 ## Week 9 (Mon Oct 12 - Fri Oct 25 2024)
 - Generative models, Bayesian Inverse Problems
 ## Week 10-13
