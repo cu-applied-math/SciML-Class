@@ -100,11 +100,13 @@ fluid-elastic problems](https://amath.colorado.edu/pub/fosls/coupled1.pdf) appro
   - [Case-study of PINNS for gravity modeling](<Misc PINN Case study gravity modeling.pdf>) based on the paper [Physics-informed neural networks for gravity field modeling
 of small bodies](https://hanspeterschaub.info/PapersPrivate/Martin2022d.pdf) by John Martin and Hanspeter Schaub (CU Aerospace dept), 2022
 - Wednesday
-  - Start on Operator learning
+  - Getting ready for more inverse problems, we're talking about the adjoint state method
+  - [Adjoint State Method notes](<14 Adjoint State Method.pdf>), following [Neural Ordinary Differential Equations](https://proceedings.neurips.cc/paper_files/paper/2018/file/69386f6bb1dfed68692a24c8686939b9-Paper.pdf) by Chen, Rubanova, Bettencourt, and Duvenaud (NeurIPS 2018)
 
 # Future weeks (tentative)
 
 ## Week 9 (Mon Oct 12 - Fri Oct 25 2024)
+  - Start on Operator learning
 - Generative models, Bayesian Inverse Problems
 ## Week 10-13
 - (finish / expand on previous topics)
