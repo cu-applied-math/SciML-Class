@@ -2,8 +2,6 @@
 
 See [lab08.ipynb](lab08.ipynb) starter notebook.
 
-# Lab 8
-
 We'll consider the [logistic equation](https://en.wikipedia.org/wiki/Logistic_function#In_ecology:_modeling_population_growth) for describing popluation growth. 
 $y(t)$ represents the population at time $t$, and satisifies the equation
 $$dy/dt = \theta y \left( 1 - \frac{y}{k} \right)$$
