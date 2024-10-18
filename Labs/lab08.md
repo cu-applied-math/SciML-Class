@@ -8,7 +8,9 @@ $$dy/dt = \theta y \left( 1 - \frac{y}{k} \right)$$
 where $\theta$ is the **growth rate** (often referred to as "r" but we'll use $\theta$ to match other conventions), and $k$ is a carrying capacity of the population.
 
 This is a very simple first-order ODE, covered in any good undergrad ODE class, and has a closed-form solution,
-$$y(t) = \frac{k}{ 1 + \frac{k-y_0}{y_0}e^{-\theta t}}$$
+```math
+y(t) = \frac{k}{ 1 + \frac{k-y_0}{y_0}e^{-\theta t}}
+```
 if $y(0) = y_0$ is the initial condition.
 
 **Motivation for our lab**
