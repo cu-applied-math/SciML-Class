@@ -33,8 +33,9 @@ Our lab is divided into several parts:
 - Part 4: root-finding
   - This is "extra". Only do this if you finish part 3b
 
-
-To get credit for this lab, in Canvas, turn in a plot from parts 1a and 1b.
+**What to turn in for credit?**
+- If you were in class for the lab, just turn in the plots from parts 1a and 1b
+- If you were not in class during the lab day, then please spend 50 minutes on the lab and turn in your complete ipynb file (exported to PDF) showing your work up to at least question 3b. You can use the lab solutions but your notebook should not be identical to the solutions.
 
 
 ### Helpful links
