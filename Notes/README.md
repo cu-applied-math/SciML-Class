@@ -93,6 +93,7 @@ fluid-elastic problems](https://amath.colorado.edu/pub/fosls/coupled1.pdf) appro
       - [KdV Equation](https://people.maths.ox.ac.uk/trefethen/pdectb/kdv2.pdf),
       - [Time-dependent Schrodinger equation](https://people.maths.ox.ac.uk/trefethen/pdectb/schr2.pdf), and then
       - [Allen-Cahn](https://people.maths.ox.ac.uk/trefethen/pdectb/allen2.pdf) equation, all from the same coffee table book
+- Friday: in-class lab, [lab07](../Labs/lab07.md), a followup to last week's lab
 
 ## Week 8 (Mon Oct 14 - Fri Oct 18 2024)
 - Monday
@@ -102,11 +103,17 @@ of small bodies](https://hanspeterschaub.info/PapersPrivate/Martin2022d.pdf) by 
 - Wednesday
   - Getting ready for more inverse problems, we're talking about the adjoint state method
   - [Adjoint State Method notes](<14 Adjoint State Method.pdf>), following [Neural Ordinary Differential Equations](https://proceedings.neurips.cc/paper_files/paper/2018/file/69386f6bb1dfed68692a24c8686939b9-Paper.pdf) by Chen, Rubanova, Bettencourt, and Duvenaud (NeurIPS 2018)
+- Friday: in-class lab, [lab08](../Labs/lab08.md)
+  - on the adjoint-state method for an ODE with a single observation
+
+## Week 9 (Mon Oct 12 - Fri Oct 25 2024)
+- Monday
+  - Intro to [inverse problems](<15 Inverse Problems.pdf>) and some classical solution methods
+- Wednesday
+  - Start on Operator learning for inverse problems
 
 # Future weeks (tentative)
 
-## Week 9 (Mon Oct 12 - Fri Oct 25 2024)
-  - Start on Operator learning
 - Generative models, Bayesian Inverse Problems
 ## Week 10-13
 - (finish / expand on previous topics)
