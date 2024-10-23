@@ -112,7 +112,9 @@ of small bodies](https://hanspeterschaub.info/PapersPrivate/Martin2022d.pdf) by 
     - for classical methods, [Survey of Multifidelity Methods in Uncertainty Propagation, Inference, and Optimization](https://epubs.siam.org/doi/abs/10.1137/16M1082469) (by Peherstorfer, Karen Willcox, and Max Gunzburger, SIAM Review 2018) is a review of surrogate models
     - and [Approximation of high-dimensional parametric PDEs](https://www.cambridge.org/core/journals/acta-numerica/article/abs/approximation-of-highdimensional-parametric-pdes/B2C26BF6F63B7734FEAD1C59738E8730) (by Cohen and DeVore, Acta Numerica 2015) takes an approximation-theoretic viewpoint
 - Wednesday
-  - Start on Operator learning for inverse problems
+  - Start on Operator learning for inverse problems, starting with [DeepONets](<16 DeepONets.pdf>)
+- Friday: in-class lab, [lab09](../Labs/lab09.md)
+  - on system identification with WENDy
 
 # Future weeks (tentative)
 
