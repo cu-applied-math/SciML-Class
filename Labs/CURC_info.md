@@ -33,7 +33,14 @@ conda env create -f /curc/sw/conda_env/yaml/pytorch-cuda-12.4.yaml
 cp -R /curc/sw/conda_env/pytorch-cuda-12.4 /projects/$USER/software/anaconda/envs
 ```
 
-To see how to use it, look at the demo in `/curc/sw/conda_env/examples/pytorch-cuda-12.4`
+To see how to use it, look at the demo in `/curc/sw/conda_env/examples/pytorch-cuda-12.4`. Specifically,
+```bash
+$ cd /scratch/alpine/$USER
+$ cp -Rf /curc/sw/conda_env/examples/pytorch-cuda-12.4 .
+$ cd pytorch-cuda-12.4
+$ sbatch job.slurm
+```
+This will run a quick (< 5 minute) 3 epoch training job w/ the MNIST dataset. The output is logged in `slurm-<jobid>.out`
 
 #### Going further
 First, it's a good idea to update your `.condarc` file [following these CURC instructions](https://curc.readthedocs.io/en/latest/software/python.html#configuring-conda-with-condarc) since your "home" disk is small, so you should use the "projects" disk
