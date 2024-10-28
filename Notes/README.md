@@ -106,7 +106,7 @@ of small bodies](https://hanspeterschaub.info/PapersPrivate/Martin2022d.pdf) by 
 - Friday: in-class lab, [lab08](../Labs/lab08.md)
   - on the adjoint-state method for an ODE with a single observation
 
-## Week 9 (Mon Oct 12 - Fri Oct 25 2024)
+## Week 9 (Mon Oct 21 - Fri Oct 25 2024)
 - Monday
   - Intro to [inverse problems](<15 Inverse Problems.pdf>) and some classical solution methods
     - for classical methods, [Survey of Multifidelity Methods in Uncertainty Propagation, Inference, and Optimization](https://epubs.siam.org/doi/abs/10.1137/16M1082469) (by Peherstorfer, Karen Willcox, and Max Gunzburger, SIAM Review 2018) is a review of surrogate models
@@ -116,10 +116,14 @@ of small bodies](https://hanspeterschaub.info/PapersPrivate/Martin2022d.pdf) by 
 - Friday: in-class lab, [lab09](../Labs/lab09.md)
   - on system identification with WENDy
 
+## Week 10 (Mon Oct 28 -- Fri Nov 1 2024)
+- Monday
+  - Background on [kernel methods and Random Fourier Features](https://github.com/stephenbeckr/ML-theory-class/blob/main/Notes/Spring2020/ch16_kernels.pdf)
+
 # Future weeks (tentative)
 
 - Generative models, Bayesian Inverse Problems
-## Week 10-13
+## Week 11-13
 - (finish / expand on previous topics)
 ## Thanksgiving week, no class
 ## Week 14-15
