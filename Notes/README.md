@@ -118,6 +118,7 @@ of small bodies](https://hanspeterschaub.info/PapersPrivate/Martin2022d.pdf) by 
 
 ## Week 10 (Mon Oct 28 -- Fri Nov 1 2024)
 - Monday
+  - Background on [Fourier transform](<Misc Fourier Transform Background.pdf>)
   - Background on [kernel methods and Random Fourier Features](https://github.com/stephenbeckr/ML-theory-class/blob/main/Notes/Spring2020/ch16_kernels.pdf)
 
 # Future weeks (tentative)
