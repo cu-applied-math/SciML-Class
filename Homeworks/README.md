@@ -20,8 +20,28 @@ The homework assignments are here, but homework **solutions** are on Canvas
 [//]: # - [HW 9/10](APPM5630Spring21Homework09-10.pdf) HW 9 and 10 on compressed sensing and perturbation analysis, applied to the Handel audio clip (using a matrix-free linear operator). See the [HW10](HW10/) subfolder for helper files.
 -->
 
+# Homework "debriefs"
+Solutions are not posted on the web (they are on Canvas, available to other instructors upon reasonable request), but here are some "take-away" messages from each homework.
 
-## FAQ
+- HW 1, review of numerical analysis
+  - **take-away**: Setup students for future discussions; basic understanding of interplay between algorithms and implementation. Numerical differentiation is unstable.
+- HW 2, PyTorch and CIFAR10
+  - **take-away**: Basic classification in PyTorch is fairly starightforward to setup; become familiar with PyTorch
+- HW 3, workflow with PyTorch / Lightning
+  - **take-away**: Learn to profile, organize code, look at validation vs training error. Setup students for future experimentation with code.
+- HW 4, automatic differentiation
+  - **take-away**: How autodiff works at a high-level, and the difference in memory and computation between forward- and reverse- style autodiff
+- HW 5, ODE solvers
+  - **take-away**: Familiarity with ODEs, considerations on solvers besides just local accuracy (e.g., conservation of energy)
+- HW 6, constrained optimization
+  - **take-away**: The difficulty constraints add; the penalty method isn't a great method though it's easy to implement. Thinking about how this will relate to future constraints for ML (e.g., PINNs constraints)
+- HW 7, baby PINNS
+  - **take-away**: Understand the PINNs idea in forward mode, and some practical experience to help with the next HW and projects
+- HW 8, PINNs in inverse mode
+  - **take-away**: PINNs show their true potential when used in inverse mode. Understand the idea of PINNs in inverse mode. See the sensitivity of training them (it's difficult, and not always reproducible!) even on easy problems
+
+
+# Submission FAQ
 
 ### General
 
