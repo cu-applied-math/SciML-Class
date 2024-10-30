@@ -120,6 +120,9 @@ of small bodies](https://hanspeterschaub.info/PapersPrivate/Martin2022d.pdf) by 
 - Monday
   - Background on [Fourier transform](<Misc Fourier Transform Background.pdf>)
   - Background on [kernel methods and Random Fourier Features](https://github.com/stephenbeckr/ML-theory-class/blob/main/Notes/Spring2020/ch16_kernels.pdf)
+- Wednesday
+  - [Fourier Neural Operator (FNO)](<17 FNO.pdf>) notes, based on the [Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/abs/2010.08895) Li et al. ICLR 2021 paper.
+    - That group has a followup paper [Neural Operator: Learning Maps Between Function Spaces With Applications to PDEs](https://www.jmlr.org/papers/volume24/21-1524/21-1524.pdf) (Kovachki et al. JMLR 2023) which puts it in a bit more context
 
 # Future weeks (tentative)
 
