@@ -8,6 +8,8 @@
 - Friday, Oct 4. Do [lab 6](lab06.md) on (a) complexity analysis, and (b) optimization methods
 - Friday, Oct 11. Do [lab 7](lab07.md) on optimization methods available in `scipy.optimize`
 - Friday, Oct 18. Do [lab 8](lab08.md) on finding derivatives via the adjoint-state method
+- Friday, Oct 25. Do [lab 9](lab09.md) on another approach to estimating ODE parameters (a baby inverse problem) using SINDy/WENDy ideas
+- Friday, Nov 1. Do [lab 10](lab10.md) on "curse of dimensionality", comparing quadrature with Monte Carlo for integration
 
 ### Solutions
-Solutions are on the [`lab_solutions`](../../../tree/lab_solutions/Labs) branch of the repo
+Solutions are on the [`lab_solutions`](../../../tree/lab_solutions/Labs) branch of the repo, which also has "take-aways"/"debriefs" from the labs (i.e., it explains what we hoped students learned from each lab)
