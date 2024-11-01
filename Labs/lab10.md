@@ -42,7 +42,7 @@ since the value of this will not depend on the dimension.
 
 We think of $\int_{a}^b f(x)dx$ as an expected value, like 
 ```math
-E[\tilde{f}] := \int_{a}^b \tilde{f}(x) p(x) dx
+\mathbb{E}[\tilde{f}] := \int_{a}^b \tilde{f}(x) p(x) dx
 ```
 for a probability distribution $p$ (i.e., $\int_a^b p(x)dx = 1$ and $p(x)\ge 0$), with $\tilde{f}(x) := f(x)/p(x)$.
 
