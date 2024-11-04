@@ -123,11 +123,18 @@ of small bodies](https://hanspeterschaub.info/PapersPrivate/Martin2022d.pdf) by 
 - Wednesday
   - [Fourier Neural Operator (FNO)](<17 FNO.pdf>) notes, based on the [Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/abs/2010.08895) Li et al. ICLR 2021 paper.
     - That group has a followup paper [Neural Operator: Learning Maps Between Function Spaces With Applications to PDEs](https://www.jmlr.org/papers/volume24/21-1524/21-1524.pdf) (Kovachki et al. JMLR 2023) which puts it in a bit more context
+- Friday
+  - lab
+
+## Week 11 (Mon Nov 4 -- Fri Nov 8 2024)
+- Monday
+  - [18 Image Processing Background](<18 Image Processing Background.pdf>)
+  - [19 Image Denoising Survey](<19 Image Denoising Survey.pdf>)
 
 # Future weeks (tentative)
 
 - Generative models, Bayesian Inverse Problems
-## Week 11-13
+## Week 12-13
 - (finish / expand on previous topics)
 ## Thanksgiving week, no class
 ## Week 14-15
