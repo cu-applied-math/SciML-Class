@@ -11,6 +11,7 @@ The homework assignments are here, but homework **solutions** are on Canvas
 - [HW 6](APPM4720SciML_Fall2024_HW06.pdf) Constrained optimization. Due Mon Oct 7 2024.
 - [HW 7](APPM4720SciML_Fall2024_HW07.pdf) Baby PINNs. Due Mon Oct 14 2024.
 - [HW 8](APPM4720SciML_Fall2024_HW08.pdf) PINNs in inverse mode. Due Mon Oct 28 2024.
+- No more homeworks, but there is a final project. See [Final Project info](ProjectInformation.md), due on Sunday December 15 2024 at 1:30 PM
 
 
 
