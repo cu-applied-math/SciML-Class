@@ -130,14 +130,25 @@ of small bodies](https://hanspeterschaub.info/PapersPrivate/Martin2022d.pdf) by 
 - Monday
   - [18 Image Processing Background](<18 Image Processing Background.pdf>)
   - [19 Image Denoising Survey](<19 Image Denoising Survey.pdf>), based on [Image Denoising: The Deep Learning Revolution and Beyond : A Survey Paper](https://arxiv.org/abs/2301.03362) by Elad, Kawar and Vaksman (2023) [SIAM J Imaging Science](https://epubs.siam.org/doi/10.1137/23M1545859) )
-  
 - Wednesday
   - Finish Image Denoising Survey
+- Friday: in-class lab, [lab11](../Labs/lab11.md)
+  - on solving inverse problems via denoisers
+
+## Week 12 (Mon Nov 11 -- Fri Nov 15 2024)
+- Monday
+  - Finish Image Denoising Survey
+  - Look at some results from [Diffusion Posterior Sampling for General Noisy Inverse Problems](https://openreview.net/forum?id=OnD9zGAGT0k), by Chung, Kim, Mccann, Klasky and Ye, ICLR 2023
+    - See their [code](https://github.com/DPS2022/diffusion-posterior-sampling)
+Wednesday
+  - Follow Christopher Bishop's [Deep Learning](https://www.bishopbook.com/) book
+  - [ch 16 on sampling](<20 Sampling.pdf>)
+  - [ch 20 on diffusion models](< 21 Diffusion Models.pdf>)
 
 # Future weeks (tentative)
 
 - Generative models, Bayesian Inverse Problems
-## Week 12-13
+## Week 13
 - (finish / expand on previous topics)
 ## Thanksgiving week, no class
 ## Week 14-15
