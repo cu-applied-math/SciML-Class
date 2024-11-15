@@ -11,6 +11,7 @@
 - Friday, Oct 25. Do [lab 9](lab09.md) on another approach to estimating ODE parameters (a baby inverse problem) using SINDy/WENDy ideas
 - Friday, Nov 1. Do [lab 10](lab10.md) on "curse of dimensionality", comparing quadrature with Monte Carlo for integration
 - Friday, Nov 8. Do [lab 11](lab11.md) on image denoising and inverse problems
+- Friday, Nov 15. Do [lab 12](lab12.md) on diffusion models
 
 ### Solutions
 Solutions are on the [`lab_solutions`](../../../tree/lab_solutions/Labs) branch of the repo, which also has "take-aways"/"debriefs" from the labs (i.e., it explains what we hoped students learned from each lab)
