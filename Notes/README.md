@@ -144,12 +144,33 @@ Wednesday
   - Follow Christopher Bishop's [Deep Learning](https://www.bishopbook.com/) book
   - [ch 16 on sampling](<20 Sampling.pdf>)
   - [ch 20 on diffusion models](< 21 Diffusion Models.pdf>)
+- Friday: in-class lab, [lab12](../Labs/lab12.md)
+  - on diffusion models
+
+## Week 13 (Mon Nov 18 -- Fri Nov 22 2024)
+- Monday
+  - Continue on diffusion models
+- Wednesday
+  - Guest lecture by Mike McCabe
+- Friday: lab
 
 # Future weeks (tentative)
 
 - Generative models, Bayesian Inverse Problems
-## Week 13
-- (finish / expand on previous topics)
 ## Thanksgiving week, no class
-## Week 14-15
-- guest lectures
+
+## Week 14
+- Monday
+  - Guest lecture by Cooper Simpson (U Washington) [possible topics: INR, compression, SIRENs]
+- Wednesday
+  - Guest lecture by CU Aerospace professoro John Evans [possible topics: closure modeling]
+- Friday
+  - Guest lecture by NCAR scientist David Gagne
+
+## Week 15
+- Monday
+  - TBD
+Wednesday
+  - TBD
+Friday
+  - (no class, Thursday was the last day of the semestser)
