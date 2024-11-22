@@ -6,10 +6,10 @@ This is the end of the semester, so the lab has less "hand-holding" than before!
 Lab created by Stephen Becker, Nov 2024 for SciML class at University of Colorado Boulder
 
 ## Part 1: Metropolis algorithm
-You're given the function `q` below which is proportional to a probability `p` that we'd like to sample from.  
+You're given the function `unnormalized_p` below which is proportional to a probability `p` that we'd like to sample from.  
 - Code a **Metropolis** sampling algorithm
 - Pick a jump function (to propose new samples)
-- Run the code using your jump function and the provided `q` sampling function, and generate a lot of samples
+- Run the code using your jump function and the provided `unnormalized_p` sampling function, and generate a lot of samples
 - Plot a histogram of these samples and make some comments
 
 ## Part 2: nicer results
@@ -23,7 +23,7 @@ You're given the function `q` below which is proportional to a probability `p` t
 
 
 ## Part 4: if you have time...
-- Numerically integrate $q$ using `scipy.integrate.cumulative_simpson` to get the CDF and then do [inverse CDF sampling](https://en.wikipedia.org/wiki/Inverse_transform_sampling). This is only really practical in 1D.
+- Numerically integrate `unnormalized_p` using `scipy.integrate.cumulative_simpson` to get the CDF and then do [inverse CDF sampling](https://en.wikipedia.org/wiki/Inverse_transform_sampling). This is only really practical in 1D.
   - [`np.interp`](https://numpy.org/doc/stable/reference/generated/numpy.interp.html) may be helpful
   - Plot a histogram of your samples using the inverse CDF sampling
 
@@ -31,7 +31,7 @@ You're given the function `q` below which is proportional to a probability `p` t
 - you could also explore the effect of different jump functions on the quality of your Metropolis algorithm
 
 ## Deliverable for Canvas:
-- turn in a plot of your KDE estimate (with the reference measure $q$ plotted as well)
+- turn in a plot of your KDE estimate (with the reference measure `unnormalized_p` plotted as well)
 
 ## Helpful references
 - on [MCMC](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)
