@@ -34,8 +34,7 @@
   - Finish [Automatic Differentiation](<09 Automatic Differentiation.pdf>)
 - Friday: in-class lab, [lab04](../Labs/lab04.md) about AutoDiff acting funny. Please bring your laptop!
 
-## Week 5 (Mon Sep 23 - Fri Sep 27 2024)
-- Monday
+## Week 5 (Mon Sep 23 - Fri Sep 27 2024)- Monday
   - Guest lecture from Jacob Spainhour on hand-coding gradients/adjoints
   - HW 4 is due tonight (the deadline was extended from last Friday)
 - Wednesday
@@ -141,6 +140,7 @@ of small bodies](https://hanspeterschaub.info/PapersPrivate/Martin2022d.pdf) by 
   - Look at some results from [Diffusion Posterior Sampling for General Noisy Inverse Problems](https://openreview.net/forum?id=OnD9zGAGT0k), by Chung, Kim, Mccann, Klasky and Ye, ICLR 2023
     - See their [code](https://github.com/DPS2022/diffusion-posterior-sampling)
 Wednesday
+  - Start mix of **generative models** and **Bayesian inverse problems**
   - Follow Christopher Bishop's [Deep Learning](https://www.bishopbook.com/) book
   - [ch 16 on sampling](<20 Sampling.pdf>)
   - [ch 20 on diffusion models](< 21 Diffusion Models.pdf>)
@@ -151,26 +151,41 @@ Wednesday
 - Monday
   - Continue on diffusion models
 - Wednesday
-  - Guest lecture by Mike McCabe
-- Friday: lab
+  - Guest lecture by Mike McCabe (Flatirons Institute)
+- Friday: in-class lab, [lab13](../Labs/lab13.md)
+  - on MCMC (using Metropolis algorithm)
 
-# Future weeks (tentative)
-
-- Generative models, Bayesian Inverse Problems
 ## Thanksgiving week, no class
 
 ## Week 14
 - Monday
   - Guest lecture by Cooper Simpson (U Washington) [possible topics: INR, compression, SIRENs]
 - Wednesday
-  - Guest lecture by CU Aerospace professoro John Evans [possible topics: closure modeling]
+  - Guest lecture by CU Aerospace professor [John Evans](https://www.colorado.edu/isogeometric/) [topics: closure modeling]
+  - Further reading:
+  - LES papers:
+    - A. Prakash, K.E. Jansen, and J.A. Evans. "[Invariant data-driven subgrid stress modeling on anisotropic grids for large eddy simulation](https://www.sciencedirect.com/science/article/abs/pii/S004578252400063X)" CMAME (2024)
+    - A. Prakash, K.E. Jansen, and J.A. Evans. "[Invariant data-driven subgrid stress modeling in the strain-rate eigenframe for large eddy simulation](https://www.sciencedirect.com/science/article/abs/pii/S0045782522004923?via%3Dihub)" CMAME (2022)
+  - RANS papers:
+    - E.L. Peters, R. Balin, K.E. Jansen, A. Doostan, and J.A. Evans. "[S-frame discrepancy correction models for data-informed Reynolds stress closure](https://www.sciencedirect.com/science/article/pii/S0021999121006124)" JCP (2022): 110717.
+    - B. Parmar, E.L Peters, K. Jansen, A. Doostan, and J.A. Evans. "[Generalized non-linear eddy viscosity models for data-assisted Reynolds stress closure](https://arc.aiaa.org/doi/abs/10.2514/6.2020-0351)" AIAA Scitech 2020 Forum. 2020.
+    - B. Parmar, K. Jansen, and J.A. Evans. "[Data-driven RANS closure with model-derived variables](https://arc.aiaa.org/doi/10.2514/6.2023-1806)" AIAA Scitech 2023 Forum. 2023.
 - Friday
   - Guest lecture by NCAR scientist David Gagne
 
 ## Week 15
 - Monday
-  - TBD
+  - Guest lecture by CU CS professor [Jed Brown](https://jedbrown.org/)
+  - Further reading:
+    - Issues with [PDEBench](https://github.com/pdebench/PDEBench/) as a weak baseline
+    - [Editorial statement](https://jedbrown.org/files/RoacheGhiaWhite-JFEEditorialPolicyStatementControlOfNumericalAccuracy-1986.pdf) from 1986 by the Journal of Fluids Engineering, about reproduciblity
+    - [Weak baselines and reporting biases lead to overoptimism in machine learning for fluid-related partial differential equations](https://arxiv.org/abs/2407.07218) by McGreivy and Hakim, about lack of reproduciblity
+      - Recently published in *Nature*, [DOI](https://www.nature.com/articles/s42256-024-00897-5)
+
 Wednesday
-  - TBD
+  - [Misc background on Bregman divergences](<Misc Bregman Divergence.pdf>)
+  - [ch 17 on GANs](<22 GANS.pdf>) loosely following Bishop's book
+  - [ch 19 on VAEs](<23 VAE.pdf>) loosely following Bishop's book
+
 Friday
-  - (no class, Thursday was the last day of the semestser)
+  - (no class, Thursday was the last day of the semester)
