@@ -44,6 +44,8 @@ Some demonstrations may be done in Julia in order to illustrate concepts
 
 The topics below are not listed in the order they will be covered in class
 
+(The exact topics we covered are listed in the [lecture notes folder](https://github.com/cu-applied-math/SciML-Class/blob/main/Notes/README.md))
+
 ### Part 1: Foundations
 
 #### Software and workflow
